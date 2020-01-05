@@ -1,0 +1,1 @@
+A code for finding the roots of a function which makes use of the sympy library and secant root finding method
